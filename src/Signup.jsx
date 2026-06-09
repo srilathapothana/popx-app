@@ -115,7 +115,7 @@ export default function Signup() {
 
         <form className="signup__form" onSubmit={handleSubmit} noValidate>
           {[
-            { name: 'fullName', label: 'Full Name', type: 'text', placeholder: 'Mary Doe', required: true },
+            { name: 'fullName', label: 'Full Name', type: 'text', placeholder: 'Enter your name', required: true },
             { name: 'phone', label: 'Phone number', type: 'tel', placeholder: 'Enter phone number', required: true },
             { name: 'email', label: 'Email address', type: 'email', placeholder: 'you@example.com', required: true },
           ].map(({ name, label, type, placeholder, required }) => (
