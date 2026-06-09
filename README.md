@@ -3,7 +3,7 @@
 A pixel-perfect React implementation of the PopX mobile app UI — built as part of a frontend qualifier assignment.
 
 🔗 **Live Demo:** [your-app.vercel.app](https://your-app.vercel.app)  
-📁 **Repository:** [github.com/your-username/popx-app](https://github.com/your-username/popx-app)
+📁 **Repository:** https://github.com/srilathapothana/popx-app
 
 ---
 
